@@ -28,12 +28,12 @@ In this project, we have developed a plant disease detection system using CNN an
 
 ## [Learn Visually - Experience the app here](https://plant--disease-detection.streamlit.app/)
 
-## [Pre Recorded Video]
+## [Pre Recorded Video](https://youtu.be/10dUegQVr5E)
 
-## [Presentation Slides]
+## [Presentation Slides](https://docs.google.com/presentation/d/1dMaCSB9Az-sZYLsfcCCde5TGu25k1dfp/edit?usp=sharing&ouid=104850178959760953505&rtpof=true&sd=true)
 
 ## [Report]
 
-## [Dataset]
+## [Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 
-## [Project Demo]
+## [Project Demo](https://youtu.be/giPuMeU_uwg)
