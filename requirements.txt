@@ -1,5 +1,6 @@
 numpy
 opencv-python
+opencv-python-headless
 pandas
 Pillow
 requests
@@ -7,4 +8,4 @@ streamlit
 streamlit_lottie
 streamlit_option_menu
 tensorflow
-opencv-python-headless
+
